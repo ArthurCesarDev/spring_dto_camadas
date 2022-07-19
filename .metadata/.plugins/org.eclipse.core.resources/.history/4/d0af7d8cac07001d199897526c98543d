@@ -1,0 +1,5 @@
+package com.arthur.projetodto.entities;
+
+public class User {
+
+}

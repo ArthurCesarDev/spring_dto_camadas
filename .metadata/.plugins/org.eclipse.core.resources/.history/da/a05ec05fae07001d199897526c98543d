@@ -1,0 +1,5 @@
+package com.arthur.projetodto.repository;
+
+public class UserRepository {
+
+}
